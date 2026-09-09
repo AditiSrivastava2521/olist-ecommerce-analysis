@@ -55,14 +55,12 @@ watches/gifts could be leaned into as a premium, higher-margin category.
 ![Dashboard](dashboard.png)
 
 ## Project Structure
-
+```
 ├── 01_data_ingestion.ipynb      
 ├── 03_business_analysis.ipynb   
 ├── dashboard.png                
 ├── q1_repeat_customers.csv
-
 ├── q2_delivery_vs_review.csv
-
 ├── q3_top_categories.csv
-
 └── README.md
+```
